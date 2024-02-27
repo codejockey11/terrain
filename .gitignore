@@ -1,0 +1,6 @@
+.vs/*
+x64/*
+terrain/x64/*
+terrain/*.bmp
+terrain/*.txt
+terrain/*.exe
